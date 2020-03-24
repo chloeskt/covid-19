@@ -1,2 +1,3 @@
-# covid-19
-Project SMC Coronavirus 
+# Project SMC Coronavirus 
+
+ENSAE 2020.
